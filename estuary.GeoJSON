@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Quay Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.811507225036621,
+          52.68325089220659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Green Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.803632259368896,
+          52.68057114354601
+        ]
+      }
+    }
+  ]
+}
