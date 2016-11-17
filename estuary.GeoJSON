@@ -32,6 +32,38 @@
           52.68057114354601
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Grass Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.808352947235107,
+          52.672439831971765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Bush Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.79374027252197,
+          52.675835651738375
+        ]
+      }
     }
   ]
 }
