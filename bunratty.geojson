@@ -1,0 +1,1932 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Saint Island",
+        "buoy-number": "",
+        "buoy-color": "",
+        "buoy-type": "",
+        "buoy-light": "",
+        "buoy-name": "",
+        "power-line": "",
+        "leading-line": "",
+        "feature-type": "",
+        "feature-name": ""
+     },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.849401473999023,
+          52.68689300541466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Sod Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.846129179000854,
+          52.68079229407725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Little Quay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.813867568969727,
+          52.68844731482229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Quay Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.811507225036621,
+          52.68325089220659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Green Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.803632259368896,
+          52.68057114354601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Grass Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.808352947235107,
+          52.672439831971765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Bush Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.79374027252197,
+          52.675835651738375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Battle Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.796186447143555,
+          52.671385903202584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Graigue Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.768119812011719,
+          52.67528921580262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "35",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "BN FL WG 2S 4M",
+        "buoy-name": "Grass Island Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.807331,
+          52.673786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "36",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "QK F R",
+        "buoy-name": "Logheen Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.802394,
+          52.672191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "37",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 4 Sec",
+        "buoy-name": "Battle Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.796015,
+          52.669031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "38",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "FL G 5 Sec",
+        "buoy-name": "Spilling Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.784377,
+          52.667386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "39",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) R 6 Sec",
+        "buoy-name": "Slate Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.786107,
+          52.66891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "40",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 2 Sec",
+        "buoy-name": "Graig Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.773875832557678,
+          52.67023110638193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "41",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) G 6 Sec",
+        "buoy-name": "Scarlet Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.762283,
+          52.675575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "42",
+        "buoy-color": "red",
+        "buoy-type": "leading",
+        "buoy-light": "Iso R 3 Sec",
+        "buoy-name": "Crawford Front"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.754398,
+          52.678698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "44",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "FL G 3 Sec",
+        "buoy-name": "Whelps Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.751318,
+          52.678021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "45",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 5 Sec",
+        "buoy-name": "Newton Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.744173,
+          52.677117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "47",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) R 6 Sec",
+        "buoy-name": "Ardbane Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7298983335495,
+          52.674111753233646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "48",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 4 Sec",
+        "buoy-name": "Horrils Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.714564144611359,
+          52.67277080589993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "49",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "Iso W 4 Sync",
+        "buoy-name": "Meelick Front"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7059086561203,
+          52.6708686881185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "50",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "Iso W 4 Sync",
+        "buoy-name": "Meelick Rear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.701625168323515,
+          52.67011399852102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "51",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) G 4 Sec",
+        "buoy-name": "Muckinish Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.708003461360931,
+          52.669972492770334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "52",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL G 5 Sec",
+        "buoy-name": "Cooper Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.705023527145386,
+          52.6650422764374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "53",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 2 Sec",
+        "buoy-name": "Coonagh Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.704739212989807,
+          52.65968038050094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "54",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 4 Sec",
+        "buoy-name": "Tervoe Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.70041012763977,
+          52.65499469020727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "55",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 4 Sec",
+        "buoy-name": "Breamer Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.703092336654663,
+          52.65601647382579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "56",
+        "buoy-color": "white",
+        "buoy-type": "leading",
+        "buoy-light": "Iso W 4 Sec",
+        "buoy-name": "Breamer Rear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.698334097862244,
+          52.65197475699698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "57",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) R 6 Sec",
+        "buoy-name": "Courtbrack Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.690909743309021,
+          52.65356285132759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "58",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "2 FG VERT",
+        "buoy-name": "Bunlickey Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.680701255798338,
+          52.656146635629206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "59",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "FL R 3 Sec",
+        "buoy-name": "Clonmacken Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.677938580513,
+          52.65860011312095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "60",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 3 Sec",
+        "buoy-name": "Ballinacurra Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.67771863937378,
+          52.65753934266787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "61",
+        "buoy-color": "white",
+        "buoy-type": "stone",
+        "buoy-light": "FL W 3 Sec",
+        "buoy-name": "Spillanes Tr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.661464452743528,
+          52.65568455947297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "62",
+        "buoy-color": "yellow",
+        "buoy-type": "buoy",
+        "buoy-light": "FL Y",
+        "buoy-name": "Corcanree Outfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.660606145858765,
+          52.65643949826994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "63",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 4 Sec",
+        "buoy-name": "Barringtons Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.661056756973267,
+          52.65697966199416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "feature-type": "castle-15",
+        "feature-name": "Scarlet Tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.760437965393066,
+          52.67419632342624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "43",
+        "buoy-color": "white",
+        "buoy-type": "leading",
+        "buoy-light": "Iso W 6 Sec",
+        "buoy-name": "Crawford Rear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.748158812522888,
+          52.68080205069254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "leading-line": "crawford"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.748182952404022,
+            52.680806928999374
+          ],
+          [
+            -8.766210079193115,
+            52.67461266660289
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "46",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "FL R 2 Sec",
+        "buoy-name": "Flagstaff Bn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.739774227142334,
+          52.677746497472896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "leading-line": "Crawford"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.70192289352417,
+            52.67013676951857
+          ],
+          [
+            -8.718681335449219,
+            52.6732
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "leading-line": "Ardbane"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.748164176940918,
+            52.680818311713196
+          ],
+          [
+            -8.727521896362303,
+            52.67328555889454
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-color": "white",
+        "buoy-type": "leading",
+        "buoy-light": "Iso W 4 Sec",
+        "buoy-name": "Breamer Front"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.699122667312622,
+          52.652788337118274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "leading-line": "Breamer"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.698339462280273,
+            52.65197475699698
+          ],
+          [
+            -8.703618049621582,
+            52.65717490025229
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "33",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 3 Sec",
+        "buoy-name": "Bunratty Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.821458220481873,
+          52.68111588732197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "island-name": "Crawford Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.764171600341797,
+          52.67873034714665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "power-line": "12m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.810359239578247,
+            52.69242713523414
+          ],
+          [
+            -8.80628228187561,
+            52.69178336534999
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "power-line": "8m"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.804941177368164,
+            52.68168989356143
+          ],
+          [
+            -8.80577802658081,
+            52.685254092059594
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "31",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "FL R 2 Sec",
+        "buoy-name": "Tradree Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.830926418304443,
+          52.683302924533926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "32",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "QK F G",
+        "buoy-name": "Bird Rock Beacon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.837138414382935,
+          52.68219722424075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "30",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 3 Sec",
+        "buoy-name": "Fergus Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.86897623538971,
+          52.68473704115481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Fergus Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.87297809123993,
+          52.686860487890605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Bridge Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.882746696472168,
+          52.6797385667975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "29",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 5 Sec",
+        "buoy-name": "Bridge Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.885579109191895,
+          52.68304276227741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Horse Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.89965534210205,
+          52.6762779996327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "28",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "FL R 4 Sec",
+        "buoy-name": "Conor Rock Bn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.903764486312866,
+          52.682060635791416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "27",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "GP FL (2) G 6 Sec",
+        "buoy-name": "Carrig Bank Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.909861147403717,
+          52.67939219718672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "27",
+        "buoy-color": "yellow",
+        "buoy-type": "buoy",
+        "buoy-light": "FL Y 2 Sec",
+        "buoy-name": "Dernish Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.917427659034727,
+          52.677552977325824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "25",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "2 FR VERT",
+        "buoy-name": "Dernish Jetty West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.918049931526184,
+          52.67871083298836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "26",
+        "buoy-color": "red",
+        "buoy-type": "beacon",
+        "buoy-light": "2 FR VERT",
+        "buoy-name": "Dernish Jetty West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.917497396469116,
+          52.67885393661341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "23",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 3 Sec",
+        "buoy-name": "Carrig Keal Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.922427296638489,
+          52.67636581816706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "22",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 5 Sec",
+        "buoy-name": "Flats Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.954152464866638,
+          52.67031893707165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "21",
+        "buoy-color": "white",
+        "buoy-type": "beacon",
+        "buoy-light": "FL WR 5 Sec 12/9 ml",
+        "buoy-name": "Beeves Lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.022323489189148,
+          52.65023364467379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Beeves Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.022806286811829,
+          52.65079666614995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Wide Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.019818305969237,
+          52.65362142747441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Cork Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.031062126159668,
+          52.65533962620086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Berger's Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.010441303253174,
+          52.675393299364956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Blackthorn Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.002330303192139,
+          52.67845064337808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "InisHloe Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.019689559936523,
+          52.6772927808188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Sand Island (east)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.012951850891113,
+          52.66605081199949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Sand Island (west)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.018402099609375,
+          52.66373439888668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "The Needles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.030890464782715,
+          52.66472344422426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "stones": "Stones"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03749942779541,
+          52.663604259675964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Canon Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.043593406677246,
+          52.67669432297104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Inishmacowney Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.049601554870605,
+          52.68379722855171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Doon Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.064149856567383,
+          52.67789123046794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Carrignaragh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.069342613220215,
+          52.677266761082876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "InisHoul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.072175025939941,
+          52.67094350577358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Iniscorker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.088783264160156,
+          52.667794547608935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Illaunbeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.065394401550293,
+          52.688375778783765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Shore Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.056339263916016,
+          52.692901828159314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Inismore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.035611152648926,
+          52.714745122586706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Coney Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.004669189453125,
+          52.711131332302344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Freenish Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.97085189819336,
+          52.70634714950862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Deenish Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.964672088623047,
+          52.71690285462463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Ford"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.961925506591797,
+          52.706386153119524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Bullocks Rocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.96907091140747,
+          52.70079527994407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Seagull Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.968148231506348,
+          52.69049579710433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Rineanna Point"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.96458625793457,
+          52.681611842164635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Inishtubbrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.066295623779297,
+          52.66831505221642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "F G (VERT)",
+        "buoy-name": "Aughnish Terminal (west)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.059793949127197,
+          52.64521169313447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-color": "green",
+        "buoy-type": "beacon",
+        "buoy-light": "F G (VERT)",
+        "buoy-name": "Aughnish Terminal (east)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.056038856506348,
+          52.64532886772565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "17",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL G 5 Sec",
+        "buoy-name": "Eight Meter Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.070823192596436,
+          52.647594181449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Foynes Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.111442565917967,
+          52.62128848503485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Sturamus Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.100391864776611,
+          52.629168830519795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "13",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "FL 2 G 2 Sec",
+        "buoy-name": "Sturamus Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.121999740600586,
+          52.633251724162264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "14",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 3 Sec",
+        "buoy-name": "Chaircon Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.112504720687866,
+          52.64094111604599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Inismurray Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.107580184936522,
+          52.651004949714526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "15",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "QK FL R",
+        "buoy-name": "InnisMurray Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.084164500236511,
+          52.64895786976495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "18",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL (2) R 6 Sec",
+        "buoy-name": "Canon Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.057790338993073,
+          52.65211794819605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "19",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "FL R 5 Sec",
+        "buoy-name": "Cork Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.03798222541809,
+          52.65080480224531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Boat Rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.980293273925781,
+          52.65345220728056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "",
+        "buoy-color": "red",
+        "buoy-type": "buoy",
+        "buoy-light": "",
+        "buoy-name": "Elbow Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.097065925598145,
+          52.61900226807153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "island-name": "Rocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.09816026687622,
+          52.62104749343504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "buoy-number": "",
+        "buoy-color": "green",
+        "buoy-type": "buoy",
+        "buoy-light": "",
+        "buoy-name": "Long Rock Buoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.095402956008911,
+          52.62270835454982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "leading-line": "Foynes entrance"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -9.099597930908203,
+            52.61653354075327
+          ],
+          [
+            -9.094276428222656,
+            52.62372437969192
+          ]
+        ]
+      }
+    }
+  ]
+}
