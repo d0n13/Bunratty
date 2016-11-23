@@ -1927,6 +1927,40 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ffff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "feature-type": "harbor-15",
+        "feature-name": "Bunratty SAR Boathouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -8.812094628810883,
+            52.69609936827798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#eeeeee",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "feature-type": "castle-15",
+        "feature-name": "Bunratty Castle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.81202220916748,
+          52.696640667344745
+        ]
+      }
     }
   ]
 }
